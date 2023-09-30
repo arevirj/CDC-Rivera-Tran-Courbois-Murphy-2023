@@ -1,0 +1,1026 @@
+,Year,Artist,Available Markets,Duration (sec),Explicit,Track Name,Popularity
+0,2000,Britney Spears,184,211,False,Oops!...I Did It Again,80
+1,2000,Bon Jovi,182,224,False,It's My Life,81
+2,2000,*NSYNC,113,200,False,Bye Bye Bye,74
+3,2000,Eminem,184,284,True,The Real Slim Shady,87
+4,2001,Modjo,178,307,False,Lady - Hear Me Tonight,78
+5,2000,Erykah Badu,181,348,True,Bag Lady,58
+6,2000,Coldplay,184,266,False,Yellow,90
+7,2001,Sweet Female Attitude,179,230,False,Flowers - Sunship Edit,47
+8,2000,Alice Deejay,183,214,False,Better Off Alone,77
+9,2000,Toploader,48,232,False,Dancing in the Moonlight,56
+10,2000,Linkin Park,183,216,False,In the End,87
+11,2000,JAY-Z,166,227,True,I Just Wanna Love U (Give It 2 Me),61
+12,2001,Gigi D'Agostino,184,242,False,L'Amour Toujours,75
+13,2000,Joe,184,296,False,I Wanna Know,68
+14,2000,Limp Bizkit,184,321,False,Take A Look Around,76
+15,2000,3 Doors Down,180,233,False,Kryptonite,81
+16,2000,U2,3,246,False,Beautiful Day,66
+17,2001,Aaliyah,184,284,False,Try Again,69
+18,2000,Fuel,184,236,False,Hemorrhage (In My Hands),63
+19,2000,Craig David,184,257,False,Fill Me In,61
+20,2000,Nelly,184,287,True,Country Grammar (Hot Shit),70
+21,2001,Darude,184,225,False,Sandstorm,71
+22,2000,Carl Thomas,184,226,False,I Wish,57
+23,2000,*NSYNC,113,192,False,It's Gonna Be Me,72
+24,2000,Craig David,184,235,False,7 Days,72
+25,2004,Next,183,243,False,Wifey,57
+26,2000,Nine Days,184,189,False,Absolutely (Story of a Girl) - Radio Mix,68
+27,2000,Westlife,184,231,False,My Love,71
+28,2000,Bomfunk MC's,169,306,False,Freestyler,57
+29,2001,Destiny's Child,183,221,False,"Independent Women, Pt. 1",67
+30,2000,Toni Braxton,184,261,False,He Wasn't Man Enough,68
+31,2000,Moloko,183,318,False,The Time Is Now,56
+32,2000,Mary Mary,174,198,False,Shackles (Praise You),64
+33,2000,Jagged Edge,184,263,False,Let's Get Married,57
+34,2000,Sonique,184,240,False,It Feels So Good,66
+35,2000,Lee Ann Womack,184,294,False,I Hope You Dance,66
+36,2000,Britney Spears,184,206,False,Lucky,68
+37,2000,Ruff Endz,184,242,False,No More,58
+38,2000,Mystikal,184,256,True,Shake Ya Ass (feat. Pharrell Williams),58
+39,2000,Avant,184,255,False,Separated,56
+40,2000,Backstreet Boys,184,230,False,Shape of My Heart,74
+41,2001,Janet Jackson,183,265,False,Doesn't Really Matter,49
+42,2001,LeAnn Rimes,184,215,False,Can't Fight The Moonlight,69
+43,2000,Baha Men,184,198,False,Who Let The Dogs Out,67
+44,2000,The Corrs,171,207,False,Breathless,71
+45,2000,*NSYNC,113,284,False,This I Promise You,69
+46,2000,Sammie,183,251,False,I Like It,47
+47,2000,Oasis,24,278,False,Go Let It Out,49
+48,2000,Da Brat,184,221,True,What'chu Like (feat. Tyrese),54
+49,2000,Kylie Minogue,167,206,False,Spinning Around,48
+50,2000,Jagged Edge,184,244,False,He Can't Love U,54
+51,2000,Mýa,3,236,False,Case Of The Ex (Whatcha Gonna Do),57
+52,2000,Kandi,184,243,False,Don't Think I'm Not,55
+53,2003,R.E.M.,184,307,False,The Great Beyond,52
+54,2000,Matchbox Twenty,169,256,False,Bent,57
+55,2000,M.O.P.,184,244,True,Cold as Ice,54
+56,2000,3 Doors Down,180,265,False,Be Like That,62
+57,2000,Everclear,184,280,False,Wonderful,58
+58,2000,Madonna,1,225,False,Music,48
+59,2001,LeAnn Rimes,184,229,False,I Need You,61
+60,2000,Ronan Keating,178,234,False,Life Is A Rollercoaster,60
+61,2000,Vengaboys,183,214,False,Shalala Lala,61
+62,2010,DJ Ötzi,182,219,False,Hey Baby (Radio Mix),59
+63,2000,Shaggy,184,227,False,It Wasn't Me,80
+64,2001,Destiny's Child,183,254,False,Survivor,72
+65,2000,Eminem,184,404,True,Stan,82
+66,2001,Kylie Minogue,167,230,False,Can't Get You out of My Head,78
+67,2001,Christina Aguilera,181,267,False,Lady Marmalade - Single Edit,69
+68,2000,Nelly Furtado,184,243,False,I'm Like A Bird,74
+69,2001,Shakira,184,196,False,"Whenever, Wherever",80
+70,2001,Jimmy Eat World,184,165,False,The Middle,83
+71,2001,Train,184,259,False,Drops of Jupiter (Tell Me),80
+72,2000,Outkast,184,270,True,Ms. Jackson,82
+73,2001,The Strokes,1,193,False,Last Nite,68
+74,2001,Weezer,178,200,False,Island In The Sun,80
+75,2001,Gorillaz,2,340,True,Clint Eastwood,71
+76,2001,Ginuwine,184,265,False,Differences,69
+77,2001,Michael Jackson,184,337,False,You Rock My World,70
+78,2001,Daft Punk,184,320,False,One More Time,77
+79,2001,JAY-Z,169,240,True,Izzo (H.O.V.A.),62
+80,2001,Sum 41,176,178,True,Fat Lip,75
+81,2001,Jamiroquai,184,295,False,Little L,66
+82,2000,Nelly,184,291,True,Ride Wit Me,77
+83,2001,Staind,1,264,True,It's Been Awhile,69
+84,2001,Blu Cantrell,183,250,False,Hit 'Em Up Style (Oops!),70
+85,2001,D12,184,304,True,Purple Pills,68
+86,2001,Janet Jackson,183,272,False,Someone To Call My Lover,51
+87,2001,Ja Rule,184,257,False,Livin' It Up,60
+88,2001,Sum 41,176,207,False,In Too Deep,76
+89,2000,Musiq Soulchild,3,304,False,Love,57
+90,2000,Limp Bizkit,184,213,True,Rollin' (Air Raid Vehicle),78
+91,2001,Trick Daddy,184,254,True,I'm a Thug,63
+92,2001,Britney Spears,184,203,False,I'm a Slave 4 U,71
+93,2001,Erick Sermon,182,223,True,Music (feat. Marvin Gaye),59
+94,2001,Rui Da Silva,184,213,False,Touch Me (Radio Edit) [feat. Cassandra],63
+95,2001,Mary J. Blige,184,265,False,Family Affair,79
+96,2001,Jennifer Lopez,184,262,True,I'm Real (feat. Ja Rule) - Murder Remix,68
+97,2000,Ja Rule,82,262,True,Put It On Me,66
+98,2001,USHER,184,266,False,U Remind Me,73
+99,2001,DJ Pied Piper & The Masters Of Ceremonies,184,217,False,Do You Really Like It? - Radio Edit,55
+100,2001,Sunshine Anderson,184,295,False,Heard It All Before,60
+101,2000,Craig David,184,257,False,Fill Me In,61
+102,2000,Lifehouse,3,216,False,Hanging By A Moment,68
+103,2001,Eve,182,230,True,Let Me Blow Ya Mind,76
+104,2001,Afroman,184,197,True,Because I Got High,68
+105,2000,Shaggy,184,235,False,Angel,77
+106,2001,Alien Ant Farm,184,209,False,Smooth Criminal,76
+107,2002,Daniel Bedingfield,2,161,False,Gotta Get Thru This - D'N'D Radio Edit,51
+108,2001,Travis,184,228,False,Sing,69
+109,2001,Basement Jaxx,184,217,False,Romeo,56
+110,2001,Jagged Edge,182,232,False,Where the Party At (feat. Nelly),68
+111,2001,Alicia Keys,184,210,False,Fallin',76
+112,2001,Janet Jackson,183,329,False,All For You,63
+113,2001,Case,77,284,False,Missing You,60
+114,2001,Sugar Ray,184,217,False,When It's Over - David Kahne Main,59
+115,2001,Nickelback,174,223,False,How You Remind Me,82
+116,2001,John Mayer,184,249,False,Your Body Is a Wonderland,74
+117,2001,P.O.D.,184,256,False,Youth of the Nation,71
+118,2001,So Solid Crew,184,302,True,21 Seconds,53
+119,2001,Missy Elliott,172,211,True,Get Ur Freak On,70
+120,2000,Ludacris,184,300,True,Southern Hospitality (Featuring Pharrell),53
+121,2001,Kylie Minogue,167,197,False,In Your Eyes,65
+122,2001,Destiny's Child,183,221,False,"Independent Women, Pt. 1",67
+123,2001,The Supermen Lovers,184,234,False,Starlight - Radio Edit,61
+124,2001,112,171,193,False,Peaches & Cream,65
+125,2001,Aerosmith,183,215,False,Jaded,64
+126,2000,Uncle Kracker,184,218,True,Follow Me,72
+127,2000,3LW,184,263,False,No More (Baby I'ma Do Right),57
+128,2001,Lasgo,184,220,False,Something,68
+129,2001,Roger Sanchez,1,452,False,Another Chance,32
+130,2001,Jennifer Lopez,184,221,False,Love Don't Cost a Thing,68
+131,2000,Enya,184,218,False,Only Time,72
+132,2000,Lenny Kravitz,183,231,False,Again,71
+133,2001,2Pac,168,266,True,Until The End Of Time,58
+134,2000,Matchbox Twenty,169,274,False,If You're Gone,65
+135,2001,Destiny's Child,183,207,False,Bootylicious,66
+136,2000,Five For Fighting,181,221,False,Superman (It's Not Easy),69
+137,2000,OPM,184,257,True,Heaven Is a Halfpipe (If I Die),57
+138,2001,112,171,264,False,It's Over Now,57
+139,2000,Jagged Edge,184,246,False,Promise,59
+140,2000,*NSYNC,113,284,False,This I Promise You,69
+141,2006,iio,180,253,False,Rapture (feat.Nadia Ali),58
+142,2001,GABRIELLE,184,196,False,Out Of Reach,69
+143,2004,Mis-Teeq,183,207,False,All I Want - Sunship Radio Edit,48
+144,2001,Lonestar,183,253,False,I'm Already There,58
+145,2001,Blue,184,223,False,All Rise,65
+146,2001,*NSYNC,57,292,False,Gone,59
+147,2001,S Club,184,233,False,Don't Stop Movin',62
+148,2001,Atomic Kitten,184,185,False,Whole Again,65
+149,2001,Missy Elliott,172,252,True,One Minute Man (feat. Ludacris),56
+150,2000,Nelly Furtado,184,276,False,Turn Off The Light,60
+151,2001,Mary J. Blige,184,326,False,No More Drama,56
+152,2000,Eve 6,171,249,False,Here's to the Night,54
+153,2000,S Club,184,240,False,Never Had A Dream Come True,63
+154,2001,Mariah Carey,176,229,False,Loverboy,44
+155,2000,Madonna,1,280,False,Don't Tell Me,45
+156,2000,Tamia,184,285,False,Stranger in My House,48
+157,2002,Nelly,184,289,True,Dilemma,79
+158,2002,Eminem,184,290,True,Without Me,88
+159,2002,Avril Lavigne,184,244,False,Complicated,80
+160,2002,Vanessa Carlton,182,237,False,A Thousand Miles,78
+161,2001,The Calling,165,208,False,Wherever You Will Go,77
+162,2001,Shakira,184,224,False,Underneath Your Clothes,67
+163,2001,No Doubt,184,302,False,Underneath It All,64
+164,2002,Ashanti,184,227,True,Foolish,75
+165,2002,Red Hot Chili Peppers,168,269,False,Can't Stop,83
+166,2002,Cam'ron,183,204,True,Oh Boy,68
+167,2002,Coldplay,184,307,False,Clocks,83
+168,2001,Aaliyah,184,274,False,Rock The Boat,70
+169,2002,Oasis,24,303,False,Stop Crying Your Heart Out,65
+170,2002,Musiq Soulchild,86,254,False,Halfcrazy,61
+171,2001,USHER,184,269,True,U Don't Have to Call,65
+172,2002,Avril Lavigne,184,204,False,Sk8er Boi,77
+173,2002,Nelly,184,228,True,Hot In Herre,78
+174,2002,Busta Rhymes,184,324,True,I Know What You Want (feat. Flipmode Squad),72
+175,2001,Fat Joe,184,267,True,What's Luv? (feat. Ja-Rule & Ashanti),75
+176,2002,Red Hot Chili Peppers,168,216,False,By the Way,77
+177,2001,Puddle Of Mudd,184,303,False,Blurry,66
+178,2002,Cam'ron,183,220,True,Hey Ma,64
+179,2002,Coldplay,184,309,False,The Scientist,85
+180,2004,Diddy,184,285,False,"I Need a Girl (Pt. 2) [feat. Loon, Ginuwine, Mario Winans]",69
+181,2002,Norah Jones,183,186,False,Don't Know Why,77
+182,2001,No Doubt,184,242,False,Hella Good,64
+183,2000,Linkin Park,183,216,False,In the End,87
+184,2003,Ja Rule,1,245,True,Always On Time,66
+185,2002,Big Tymers,76,335,True,Still Fly,66
+186,2001,Aaliyah,184,229,False,More Than A Woman,63
+187,2002,Coldplay,184,226,False,In My Place,75
+188,2001,John Mayer,184,231,False,No Such Thing,63
+189,2002,Eminem,184,297,True,Till I Collapse,85
+190,2002,Ashanti,184,262,True,Happy,63
+191,2001,Puddle Of Mudd,184,216,True,She Hates Me,72
+192,2002,LL COOL J,181,286,False,Luv U Better,53
+193,2002,DJ Sammy,180,233,False,Heaven,66
+194,2001,Outkast,184,295,True,The Whole World,54
+195,2002,Sophie Ellis-Bextor,183,230,False,Murder On The Dancefloor,54
+196,2002,Eminem,184,297,True,Cleanin' Out My Closet,74
+197,2002,Sheryl Crow,3,292,False,Soak Up The Sun,65
+198,2002,Daniel Bedingfield,2,161,False,Gotta Get Thru This - D'N'D Radio Edit,51
+199,2001,USHER,184,247,False,U Got It Bad,73
+200,2002,Mario,184,214,False,Just a Friend 2002 - Radio Edit,64
+201,2002,The Chicks,184,230,False,Landslide,68
+202,2002,Las Ketchup,184,213,False,The Ketchup Song (Aserejé) - Spanglish Version,68
+203,2001,Ludacris,166,296,True,Rollout (My Business),62
+204,2002,Tweet,170,237,True,Oops (Oh My) [feat. Missy Elliott],61
+205,2003,Chad Kroeger,184,200,False,Hero (feat. Josey Scott),68
+206,2002,Missy Elliott,184,263,True,Work It,70
+207,2001,Kylie Minogue,167,238,False,Love at First Sight,52
+208,2001,Busta Rhymes,184,238,True,Pass The Courvoisier Part II (feat. P. Diddy & Pharrell) - Remix,56
+209,2001,Faith Evans,184,267,False,I Love You,56
+210,2002,Scooter,183,235,False,The Logical Song,64
+211,2002,Ashanti,184,265,True,Baby,59
+212,2002,Justin Timberlake,184,283,False,Like I Love You,63
+213,2002,Oasis,24,292,False,Little By Little,59
+214,2002,Brandy,1,248,False,Full Moon,50
+215,2001,Creed,180,294,False,My Sacrifice,73
+216,2005,Diddy,184,268,False,I Need a Girl (Pt. 1) [feat. Usher & Loon],66
+217,2002,Eve,180,239,True,Gangsta Lovin',64
+218,2002,Dirty Vegas,184,432,False,Days Go By,50
+219,2002,N.O.R.E.,82,264,True,Nothin',56
+220,2002,Ludacris,75,272,True,Move Bitch,54
+221,2004,Marilyn Manson,3,200,False,Tainted Love,61
+222,2002,Scooter,183,208,False,Nessaja,64
+223,2001,Stereophonics,184,277,False,Handbags And Gladrags,59
+224,2002,The Goo Goo Dolls,184,238,False,Here Is Gone,59
+225,2002,Daniel Bedingfield,2,257,False,If You're Not The One,53
+226,2002,Elvis Presley,184,211,False,A Little Less Conversation - JXL Radio Edit Remix,57
+227,2002,Charli Baltimore,55,318,True,Down 4 U,47
+228,2001,Default,184,269,False,Wasting My Time,59
+229,2001,Michelle Branch,184,217,False,All You Wanted,62
+230,2001,P!nk,184,192,False,Get the Party Started,72
+231,2000,Kylie Minogue,167,206,False,Spinning Around,48
+232,2002,Christina Aguilera,184,298,False,Dirrty,68
+233,2002,Atomic Kitten,184,206,False,The Tide Is High - Radio Mix,66
+234,2001,No Doubt,184,207,False,Hey Baby,59
+235,2001,Robbie Williams,184,170,False,Somethin' Stupid,67
+236,2002,Truth Hurts,184,226,True,Addictive,59
+237,2001,City High,182,212,False,Caramel,52
+238,2001,Enrique Iglesias,3,264,False,Hero,62
+239,2001,*NSYNC,57,253,False,Girlfriend,58
+240,2002,Blue,181,207,False,One Love,63
+241,2002,Sugababes,80,236,False,Round Round,59
+242,2004,Busted,3,212,False,What I Go To School For,32
+243,2001,Alicia Keys,184,303,False,A Woman's Worth,57
+244,2001,P!nk,184,236,True,Just Like a Pill,70
+245,2002,Brandy,1,250,False,What About Us?,40
+246,2001,Mary J. Blige,184,276,False,Rainy Dayz,52
+247,2002,Alanis Morissette,184,269,False,Hands Clean,59
+248,2001,Britney Spears,184,198,False,Overprotected - Radio Edit,63
+249,2002,Ronan Keating,3,214,False,If Tomorrow Never Comes,46
+250,2002,Sugababes,80,195,False,Freak Like Me,46
+251,2001,P!nk,184,210,False,Don't Let Me Get Me - Radio Edit,63
+252,2001,Westlife,184,211,False,World of Our Own,62
+253,2003,50 Cent,12,193,True,In Da Club,76
+254,2003,The White Stripes,184,232,False,Seven Nation Army,85
+255,2005,Eminem,184,326,True,Lose Yourself,78
+256,2003,Beyoncé,180,236,False,Crazy In Love (feat. Jay-Z),80
+257,2003,Black Eyed Peas,183,272,False,Where Is The Love?,81
+258,2002,Jennifer Lopez,184,187,False,Jenny from the Block - Track Masters Remix,64
+259,2002,Justin Timberlake,184,267,False,Rock Your Body,81
+260,2003,Pharrell Williams,184,236,True,Frontin' (feat. Jay-Z) - Club Mix,68
+261,2003,The Strokes,184,219,False,Reptilia,77
+262,2005,Snoop Dogg,184,299,True,Beautiful,67
+263,2003,50 Cent,12,224,True,21 Questions,75
+264,2002,Floetry,184,268,False,Say Yes,63
+265,2003,Three Days Grace,180,231,False,I Hate Everything About You,76
+266,2003,Linkin Park,184,162,False,Faint,81
+267,2003,Fabolous,184,295,True,Into You (feat. Tamia),68
+268,2002,Coldplay,184,307,False,Clocks,83
+269,2003,blink-182,184,227,False,I Miss You,77
+270,2002,t.A.T.u.,183,214,True,All The Things She Said,77
+271,2003,Baby Bash,79,239,False,Suga Suga,74
+272,2003,Junior Senior,2,181,False,Move Your Feet,61
+273,2002,Busta Rhymes,184,324,True,I Know What You Want (feat. Flipmode Squad),72
+274,2003,Outkast,184,234,True,The Way You Move,70
+275,2003,Switchfoot,184,201,False,Meant to Live,65
+276,2002,JAY-Z,166,281,True,Excuse Me Miss,57
+277,2003,Ashanti,184,209,False,Rock Wit U (Awww Baby),70
+278,2003,Monica,184,242,False,So Gone,64
+279,2002,Audioslave,182,293,False,Like a Stone,79
+280,2002,Trapt,184,285,True,Headstrong,74
+281,2003,Limp Bizkit,184,269,False,Behind Blue Eyes,77
+282,2003,50 Cent,12,249,True,P.I.M.P.,70
+283,2003,Evanescence,180,235,False,Bring Me To Life,84
+284,2003,Michael Bublé,182,188,False,Sway,74
+285,2003,Wayne Wonder,184,202,False,No Letting Go,66
+286,2004,Kelly Clarkson,184,188,False,Since U Been Gone,74
+287,2003,Room 5,182,212,False,Make Luv,61
+288,2002,Eminem,184,339,True,Sing For The Moment,78
+289,2003,Benny Benassi,184,285,False,Satisfaction - Isak Original Extended,67
+290,2002,Lil Jon & The East Side Boyz,184,324,False,Get Low,50
+291,2002,Ja Rule,3,278,True,Mesmerize,65
+292,2003,No Doubt,184,225,False,It's My Life,62
+293,2002,JAY-Z,166,205,True,03' Bonnie & Clyde,71
+294,2002,Good Charlotte,184,190,False,Lifestyles of the Rich & Famous,70
+295,2002,Justin Timberlake,184,288,False,Cry Me a River,77
+296,2007,DMX,184,217,True,X Gon' Give It To Ya,73
+297,2003,50 Cent,12,219,True,Wanksta,57
+298,2002,Uncle Kracker,184,255,False,Drift Away,69
+299,2003,The Darkness,184,216,False,I Believe in a Thing Called Love,71
+300,2002,Tyrese,184,294,False,How You Gonna Act Like That,64
+301,2002,The Roots,184,267,True,The Seed (2.0),64
+302,2003,Chingy,184,250,True,Right Thurr,69
+303,2002,Avril Lavigne,184,223,False,I'm with You,73
+304,2002,LL COOL J,181,254,False,All I Have,55
+305,2003,Lil' Kim,68,359,True,Magic Stick,59
+306,2003,Ashanti,184,297,False,Rain On Me,52
+307,2003,Fabolous,184,223,True,Can't Let You Go (feat. Mike Shorey & Lil' Mo),63
+308,2003,Ginuwine,184,243,True,In Those Jeans,61
+309,2003,Beyoncé,180,244,False,Baby Boy (feat. Sean Paul),69
+310,2003,Dido,181,240,False,White Flag,52
+311,2002,Matchbox Twenty,183,228,False,Unwell,68
+312,2002,3 Doors Down,184,260,False,When I'm Gone,71
+313,2002,Missy Elliott,184,263,True,Work It,70
+314,2003,Jamelia,184,215,False,Superstar,70
+315,2002,Aaliyah,184,245,False,Miss You,61
+316,2001,John Mayer,184,249,False,Your Body Is a Wonderland,74
+317,2002,Jaheim,182,245,True,Put That Woman First,58
+318,2001,Kid Rock,170,298,False,Picture (feat. Sheryl Crow),69
+319,2002,Santana,184,254,False,The Game of Love (feat. Michelle Branch) - Main / Radio Mix,64
+320,2004,Busted,3,196,False,Year 3000,44
+321,2002,Nelly,184,304,True,Air Force Ones,63
+322,2003,Ultrabeat,180,201,False,Pretty Green Eyes - Radio Edit,58
+323,2003,Lumidee,92,184,False,"Never Leave You (Uh Oooh, Uh Oooh)",64
+324,2002,Counting Crows,184,225,False,Big Yellow Taxi,64
+325,2003,Panjabi MC,182,245,False,Mundian To Bach Ke,64
+326,2002,Nas,184,253,False,I Can,61
+327,2003,Nickelback,173,207,False,Someday,73
+328,2004,Simply Red,100,200,False,Sunrise,59
+329,2003,Lil' Kim,184,234,True,The Jump Off (feat. Mr. Cheeks) - Remix,50
+330,2003,Electric Six,184,214,False,Danger! High Voltage - Soulchild Radio Mix,56
+331,2003,Girls Aloud,184,221,False,Sound Of The Underground,56
+332,2003,Youngbloodz,183,298,True,Damn! (feat. Lil' Jon) - Club Mix,58
+333,2002,B2K,1,278,False,"Bump, Bump, Bump (feat. P. Diddy)",54
+334,2002,Daniel Bedingfield,2,257,False,If You're Not The One,53
+335,2003,Black Eyed Peas,0,296,False,Shut Up,1
+336,2003,Ludacris,176,213,True,Stand Up,59
+337,2002,Missy Elliott,184,234,True,Gossip Folks (feat. Ludacris),58
+338,2003,Mýa,3,209,False,My Love Is Like...Wo,52
+339,2004,Mis-Teeq,183,238,False,Scandalous - U.S. Radio Edit,60
+340,2002,Christina Aguilera,184,238,False,Beautiful,71
+341,2003,Amanda Perez,184,218,False,Angel,48
+342,2003,Kelly Clarkson,27,214,False,Miss Independent,57
+343,2003,Chingy,184,314,True,Holidae In,58
+344,2009,Fatman Scoop,0,164,True,Be Faithful,0
+345,2003,Britney Spears,184,223,False,Me Against the Music - LP Version / Video Mix,59
+346,2003,Sugababes,7,237,False,Too Lost In You,32
+347,2002,Christina Aguilera,184,245,False,Fighter,68
+348,2002,Craig David,184,287,False,Rise & Fall (feat. Sting),61
+349,2003,Train,184,242,False,Calling All Angels,58
+350,2004,USHER,184,250,False,Yeah! (feat. Lil Jon & Ludacris),83
+351,2002,Maroon 5,180,206,False,This Love,82
+352,2003,Britney Spears,184,198,False,Toxic,83
+353,2003,Outkast,184,235,False,Hey Ya!,83
+354,2003,Hoobastank,184,232,False,The Reason,82
+355,2004,Kanye West,184,223,True,All Falls Down,82
+356,2004,Twista,184,316,True,Slow Jamz,72
+357,2003,Kelis,2,224,False,Millionaire,50
+358,2003,Alicia Keys,184,366,False,You Don't Know My Name,66
+359,2004,The Killers,184,222,False,Mr. Brightside,86
+360,2004,D12,184,298,True,My Band,74
+361,2004,Franz Ferdinand,184,237,False,Take Me Out,81
+362,2004,Kanye West,184,221,True,Through The Wire,76
+363,2003,Outkast,184,369,True,Roses,72
+364,2004,Twista,129,233,True,Overnight Celebrity,69
+365,2004,Gwen Stefani,170,221,False,What You Waiting For?,63
+366,2004,Green Day,184,176,True,American Idiot,82
+367,2004,USHER,184,223,False,My Boo,80
+368,2003,Baby Bash,79,239,False,Suga Suga,74
+369,2004,Keane,3,236,False,Somewhere Only We Know,77
+370,2004,Petey Pablo,36,235,True,Freek-A-Leek,70
+371,2005,Akon,184,235,True,Locked Up,68
+372,2004,Kanye West,184,193,True,Jesus Walks,72
+373,2003,Outkast,184,234,True,The Way You Move,70
+374,2003,Beyoncé,180,301,False,"Me, Myself and I",63
+375,2003,Linkin Park,184,196,False,Breaking the Habit,67
+376,2003,G-Unit,181,265,True,Wanna Get To Know You,64
+377,2004,Lil' Flip,184,225,True,Sunshine (feat. Lea),65
+378,2003,Jet,182,213,False,Are You Gonna Be My Girl,77
+379,2003,Alicia Keys,184,228,False,If I Ain't Got You,81
+380,2004,Snoop Dogg,184,266,True,Drop It Like It's Hot,77
+381,2003,Linkin Park,184,185,False,Numb,86
+382,2004,USHER,184,231,False,Burn,73
+383,2003,JAY-Z,184,245,True,Dirt Off Your Shoulder,65
+384,2002,Maroon 5,177,257,False,She Will Be Loved,73
+385,2004,The Streets,166,254,True,Fit but You Know It,60
+386,2003,No Doubt,184,225,False,It's My Life,62
+387,2004,USHER,184,211,False,Confessions Part II,71
+388,2003,Black Eyed Peas,183,217,False,Let's Get It Started - Spike Mix,72
+389,2003,JUVENILE,183,248,True,Slow Motion,66
+390,2004,The Shapeshifters,183,207,False,Lola's Theme - Radio Edit,67
+391,2004,Lloyd,52,277,False,Southside,63
+392,2004,N.E.R.D,183,213,False,She Wants To Move,56
+393,2004,Ciara,184,223,False,Goodies (feat. Petey Pablo),69
+394,2003,Alicia Keys,184,284,False,Diary (feat. Tony! Toni! Tone! & Jermaine Paul),60
+395,2004,Eric Prydz,184,171,False,Call on Me - Radio Mix,76
+396,2002,O-Zone,2,213,False,Dragostea Din Tei,57
+397,2003,Chingy,184,276,False,One Call Away,63
+398,2004,Daddy Yankee,184,192,False,Gasolina,85
+399,2001,J-Kwon,184,247,True,Tipsy - Club Mix,59
+400,2004,Tim McGraw,184,300,False,Live Like You Were Dying,70
+401,2004,Spiderbait,184,205,False,Black Betty - Edit,68
+402,2004,Destiny's Child,183,242,False,Lose My Breath,62
+403,2003,Beyoncé,180,208,False,Naughty Girl,67
+404,2003,Evanescence,180,262,False,My Immortal,75
+405,2003,Avant,184,263,False,Read Your Mind,57
+406,2003,Dido,181,240,False,White Flag,52
+407,2003,John Mayer,184,237,False,Daughters,68
+408,2003,Kelis,1,182,False,Milkshake - Radio Mix,57
+409,2003,Ludacris,176,290,True,Splash Waterfalls,48
+410,2001,Gary Jules,184,189,False,Mad World,69
+411,2004,Natasha Bedingfield,184,216,False,These Words,68
+412,2004,Avril Lavigne,184,242,True,My Happy Ending,70
+413,2004,Eminem,184,248,True,Just Lose It,69
+414,2004,The Streets,166,271,True,Dry Your Eyes,53
+415,2004,Sia,184,272,False,Breathe Me,57
+416,2004,Juanes,95,216,False,La Camisa Negra,75
+417,2004,Rise Against,3,200,False,Swing Life Away,59
+418,2004,Twista,129,226,True,Sunshine (feat. Anthony Hamilton),55
+419,2004,Nina Sky,181,232,False,Move Ya Body,68
+420,2004,Eminem,184,296,True,Like Toy Soldiers,50
+421,2004,Terror Squad,69,247,True,Lean Back,67
+422,2003,Kelis,24,206,True,Trick Me - Club Mix,45
+423,2004,Kevin Lyttle,184,192,False,Turn Me On,71
+424,2002,3 Doors Down,184,238,False,Here Without You,77
+425,2004,U2,184,193,False,Vertigo,67
+426,2003,The Rasmus,184,257,False,In the Shadows,70
+427,2004,Scissor Sisters,2,271,False,Take Your Mama,56
+428,2004,T.I.,184,216,True,Bring Em Out,66
+429,2004,Ashlee Simpson,2,217,False,Pieces Of Me,57
+430,2004,Gavin DeGraw,184,217,False,I Don't Want to Be,56
+431,2003,Five For Fighting,184,244,False,100 Years,66
+432,2004,JoJo,184,242,False,Leave (Get Out),68
+433,2004,Anastacia,184,257,False,Left Outside Alone,65
+434,2004,Special D.,180,185,False,Come With Me - Radio Edit,60
+435,2003,Britney Spears,184,230,False,Everytime,67
+436,2004,McFly,184,177,False,Five Colours In Her Hair,55
+437,2004,Avril Lavigne,184,212,False,Nobody's Home,63
+438,2003,Ying Yang Twins,184,252,True,Salt Shaker,63
+439,2004,Ashanti,95,186,False,Only U - No Intro,57
+440,2004,Nelly,162,336,True,My Place,60
+441,2004,LL COOL J,184,267,False,Headsprung,59
+442,2004,LMC,179,171,False,Take Me To The Clouds Above - LMC Vs. U2 / Radio Edit,62
+443,2004,D12,184,249,True,How Come,59
+444,2004,Lloyd Banks,74,187,True,On Fire,60
+445,2004,George Michael,184,265,False,Amazing,60
+446,2004,Eamon,175,225,True,Fuck It (I Don't Want You Back),65
+447,2005,Mariah Carey,3,201,False,We Belong Together,72
+448,2004,Mario,149,256,False,Let Me Love You,75
+449,2005,Kanye West,182,207,True,Gold Digger,81
+450,2005,Rihanna,184,246,False,Pon de Replay,80
+451,2005,50 Cent,178,209,True,Candy Shop,81
+452,2005,James Blunt,182,209,True,You're Beautiful,77
+453,2005,The Pussycat Dolls,3,272,False,Don't Cha,68
+454,2005,Daniel Powter,184,233,False,Bad Day,76
+455,2005,Gorillaz,168,244,False,DARE,75
+456,2005,Kanye West,182,233,True,Diamonds From Sierra Leone - Remix,62
+457,2008,Amerie,183,238,False,1 Thing,52
+458,2005,The Game,183,206,True,Hate It Or Love It,83
+459,2006,Arctic Monkeys,183,173,False,I Bet You Look Good On The Dancefloor,76
+460,2005,Fall Out Boy,180,229,False,"Sugar, We're Goin Down",79
+461,2005,Gorillaz,168,222,False,Feel Good Inc.,84
+462,2005,Thirty Seconds To Mars,184,231,False,The Kill,78
+463,2005,Bobby V.,184,258,False,"Slow Down - 12"" Version",67
+464,2005,Bow Wow,184,205,False,Like You (feat. Ciara),68
+465,2005,D4L,184,224,True,Laffy Taffy,72
+466,2004,Ciara,184,256,False,Oh (feat. Ludacris),67
+467,2005,T-Pain,184,231,False,I'm Sprung,72
+468,2005,Weezer,184,196,False,Beverly Hills,72
+469,2005,Death Cab for Cutie,1,189,False,I Will Follow You into the Dark,67
+470,2005,The All-American Rejects,182,193,False,Dirty Little Secret,66
+471,2005,Ray J,184,337,True,One Wish,64
+472,2005,Jack Johnson,11,191,False,Banana Pancakes,71
+473,2005,Akon,184,235,True,Lonely,79
+474,2005,Stereophonics,184,297,False,Dakota,70
+475,2004,Green Day,184,285,False,Wake Me up When September Ends,80
+476,2005,Franz Ferdinand,184,215,False,Do You Want To,63
+477,2005,Foo Fighters,184,255,False,Best of You,77
+478,2004,Eminem,184,250,True,Mockingbird,88
+479,2004,Snoop Dogg,184,236,True,Signs,66
+480,2004,Lil Jon & The East Side Boyz,184,260,True,Lovers And Friends,69
+481,2004,Gwen Stefani,170,236,False,Rich Girl,66
+482,2004,Kelly Clarkson,184,188,False,Since U Been Gone,74
+483,2005,Jack Johnson,11,207,False,Better Together,72
+484,2005,KT Tunstall,183,201,False,Suddenly I See,76
+485,2005,The Game,183,235,True,How We Do,77
+486,2005,Madonna,184,337,False,Hung Up,76
+487,2004,Snoop Dogg,184,266,True,Drop It Like It's Hot,77
+488,2005,50 Cent,2,247,True,Outta Control - Remix,57
+489,2005,Bow Wow,184,248,False,Let Me Hold You (feat. Omarion),64
+490,2004,Trillville,175,283,True,Some Cut,53
+491,2004,Gwen Stefani,170,199,True,Hollaback Girl,71
+492,2005,Chris Brown,184,229,False,Run It! (feat. Juelz Santana),75
+493,2005,Coldplay,184,295,False,Fix You,84
+494,2005,Jeezy,3,280,True,Soul Survivor,66
+495,2004,Destiny's Child,183,245,False,Cater 2 U,61
+496,2005,50 Cent,178,237,True,Just A Lil Bit,79
+497,2005,Coldplay,184,287,False,Speed of Sound,73
+498,2005,John Legend,184,281,False,Ordinary People,66
+499,2004,Papa Roach,182,208,False,Scars,63
+500,2004,Gwen Stefani,170,189,False,Cool,58
+501,2005,Black Eyed Peas,3,326,False,My Humps,68
+502,2004,Eminem,184,265,True,Ass Like That,56
+503,2005,50 Cent,178,214,True,Disco Inferno,75
+504,2005,Lifehouse,184,195,False,You And Me,76
+505,2004,JAY-Z,184,205,True,Numb / Encore,80
+506,2005,Crazy Frog,184,168,False,Axel F,70
+507,2005,The Coral,184,152,False,In the Morning,59
+508,2005,Pretty Ricky,183,237,True,Grind With Me,66
+509,2004,Destiny's Child,183,224,False,Girl,60
+510,2004,Ciara,184,203,False,"One, Two Step (feat. Missy Elliott)",75
+511,2005,Toby Keith,184,227,False,As Good As I Once Was,71
+512,2005,Baby Bash,3,219,True,"Baby, I'm Back",57
+513,2006,Akon,184,238,False,Bananza (Belly Dancer),57
+514,2005,The Chemical Brothers,184,393,False,Galvanize,65
+515,2005,The Pussycat Dolls,3,207,False,Stickwitu,63
+516,2005,Shakira,184,212,False,La Tortura (feat. Alejandro Sanz),77
+517,2005,Pretty Ricky,183,240,True,Your Body,60
+518,2005,The Click Five,183,234,False,Just the Girl,62
+519,2004,Eminem,184,296,True,Like Toy Soldiers,69
+520,2005,Missy Elliott,184,226,True,Lose Control (feat. Ciara & Fat Man Scoop),68
+521,2005,Black Eyed Peas,3,239,False,Don't Phunk With My Heart,56
+522,2004,Jesse McCartney,183,214,False,Beautiful Soul,71
+523,2005,Nickelback,172,258,False,Photograph,70
+524,2004,2Pac,170,238,True,Ghetto Gospel,69
+525,2003,Howie Day,115,249,False,Collide,65
+526,2004,Kelly Clarkson,184,237,False,Breakaway,64
+527,2004,USHER,184,224,False,Caught Up,65
+528,2004,Nelly,162,253,True,Over And Over,63
+529,2005,Sean Paul,183,213,False,We Be Burnin',63
+530,2005,Fort Minor,184,230,True,Remember the Name (feat. Styles of Beyond),73
+531,2005,Mariah Carey,3,203,False,It's Like That,54
+532,2004,Kelly Clarkson,184,219,False,Because of You,70
+533,2004,Destiny's Child,183,325,False,Soldier,62
+534,2005,Sugababes,7,218,False,Push The Button,45
+535,2005,McFly,184,186,False,All About You,58
+536,2004,Ludacris,184,270,True,Get Back,61
+537,2004,Kelly Clarkson,184,198,False,Behind These Hazel Eyes,62
+538,2005,Ying Yang Twins,184,179,True,Wait (The Whisper Song),58
+539,2005,Jennifer Lopez,184,225,False,Get Right,58
+540,2005,Michael Bublé,5,225,False,Home,62
+541,2005,Mariah Carey,184,233,False,Don't Forget About Us - Radio Edit,59
+542,2005,Black Eyed Peas,3,219,False,Don't Lie,48
+543,2003,Alicia Keys,184,256,False,Karma,51
+544,2005,Shakira,184,218,False,Hips Don't Lie,86
+545,2005,Sean Paul,183,218,False,Temperature,82
+546,2006,Nelly Furtado,184,242,False,Promiscuous,85
+547,2006,Justin Timberlake,184,242,True,SexyBack (feat. Timbaland),80
+548,2007,Beyoncé,180,227,False,Irreplaceable,72
+549,2005,Kanye West,182,236,True,Touch The Sky,74
+550,2006,Gnarls Barkley,5,182,False,Crazy,74
+551,2005,Keyshia Cole,184,255,False,Love,83
+552,2006,Lily Allen,1,196,True,Smile,63
+553,2006,Arctic Monkeys,183,202,True,When The Sun Goes Down,75
+554,2006,Corinne Bailey Rae,184,215,False,Put Your Records On,80
+555,2005,Panic! At The Disco,5,186,False,I Write Sins Not Tragedies,74
+556,2006,Muse,184,212,False,Supermassive Black Hole,79
+557,2006,Nelly Furtado,184,258,False,Maneater,82
+558,2006,The Killers,184,220,False,When You Were Young,78
+559,2006,The Kooks,1,203,False,Naive,64
+560,2005,Fall Out Boy,180,180,False,"Dance, Dance",78
+561,2006,Justin Timberlake,184,276,False,My Love (feat. T.I.),76
+562,2006,My Chemical Romance,184,311,False,Welcome to the Black Parade,78
+563,2006,Red Hot Chili Peppers,184,282,False,Dani California,78
+564,2005,Chris Brown,184,229,False,Yo (Excuse Me Miss),73
+565,2006,Amy Winehouse,184,185,True,Tears Dry On Their Own,64
+566,2006,Cassie,184,192,False,Me & U,79
+567,2005,D4L,184,224,True,Laffy Taffy,72
+568,2007,The Fratellis,2,215,False,Chelsea Dagger,63
+569,2006,Rihanna,184,238,False,SOS,77
+570,2005,The All-American Rejects,182,193,False,Dirty Little Secret,66
+571,2006,The Raconteurs,4,215,False,"Steady, As She Goes",55
+572,2005,The Notorious B.I.G.,177,286,True,"Nasty Girl (feat. Diddy, Nelly, Jagged Edge & Avery Storm) - 2005 Remaster",69
+573,2006,The Kooks,1,169,False,She Moves In Her Own Way,58
+574,2007,Beyoncé,180,240,False,Deja Vu (feat. Jay-Z),67
+575,2006,Ne-Yo,177,207,False,So Sick,80
+576,2005,T-Pain,184,239,True,I'm N Luv (Wit a Stripper) (feat. Mike Jones),68
+577,2005,The Fray,184,262,False,How to Save a Life,81
+578,2005,The All-American Rejects,182,238,False,Move Along,62
+579,2006,Chingy,183,234,True,Pullin' Me Back,63
+580,2006,Rascal Flatts,182,276,False,Life is a Highway,75
+581,2006,Amy Winehouse,184,256,False,You Know I'm No Good,65
+582,2005,The Fray,184,236,False,Over My Head (Cable Car),71
+583,2004,Natasha Bedingfield,184,259,False,Unwritten,79
+584,2005,Black Eyed Peas,3,213,True,Pump It,70
+585,2005,Eminem,184,274,True,Shake That,75
+586,2010,Cascada,184,197,False,Everytime We Touch,73
+587,2005,Mary J. Blige,184,246,True,Be Without You - Kendu Mix,69
+588,2006,Ciara,169,261,False,Get Up (feat. Chamillionaire),62
+589,2005,The All-American Rejects,182,244,False,It Ends Tonight,58
+590,2006,Snow Patrol,184,267,False,Chasing Cars,82
+591,2006,Ne-Yo,177,220,False,Sexy Love,71
+592,2006,T.I.,184,274,True,What You Know,64
+593,2006,Amy Winehouse,184,214,False,Rehab,74
+594,2006,Evanescence,180,214,False,Call Me When You're Sober,70
+595,2006,John Mayer,184,201,False,Waiting On the World to Change,75
+596,2005,Nickelback,172,219,False,Savin' Me,72
+597,2006,Fergie,3,241,True,London Bridge,66
+598,2005,Eminem,179,281,True,When I'm Gone,64
+599,2006,E-40,183,202,True,U and Dat (feat. T. Pain & Kandi Girl),62
+600,2007,Paolo Nutini,184,220,False,Last Request,69
+601,2005,Nelly,184,271,False,Grillz,55
+602,2006,Yung Joc,170,241,True,It's Goin' Down (feat. Nitti),67
+603,2006,Rascal Flatts,182,214,False,What Hurts The Most,70
+604,2006,Sean Paul,1,243,False,(When You Gonna) Give It Up to Me (feat. Keyshia Cole) - Radio Version,53
+605,2006,JoJo,184,221,False,Too Little Too Late,72
+606,2005,The Pussycat Dolls,3,207,False,Stickwitu,63
+607,2006,P!nk,184,208,False,Who Knew,76
+608,2006,Lil Jon,184,274,False,Snap Yo Fingers,69
+609,2006,James Morrison,2,212,False,You Give Me Something,52
+610,2005,Chamillionaire,103,303,True,Ridin',70
+611,2005,Armand Van Helden,184,182,False,My My My,66
+612,2006,Take That,3,202,False,Patience,43
+613,2005,Nickelback,172,238,False,Far Away,74
+614,2006,Busta Rhymes,184,214,True,Touch It,59
+615,2006,Scissor Sisters,45,288,False,I Don't Feel Like Dancin',58
+616,2005,The Pussycat Dolls,3,225,False,Buttons,66
+617,2006,Rihanna,184,226,False,Unfaithful,72
+618,2006,Ludacris,164,230,True,Money Maker,61
+619,2005,Chris Brown,184,186,False,Gimme That,67
+620,2006,Beyoncé,170,210,False,Check On It (feat. Bun B & Slim Thug),60
+621,2005,Bob Sinclar,184,204,False,Love Generation - Radio Edit,70
+622,2006,Keane,184,186,False,Is It Any Wonder?,62
+623,2005,James Blunt,182,258,False,Goodbye My Lover,71
+624,2006,Cherish,184,226,False,Do It To It,65
+625,2006,Dem Franchize Boyz,183,229,True,"Lean Wit It, Rock Wit It",61
+626,2005,Fort Minor,184,231,True,Where'd You Go (feat. Holly Brook & Jonah Matranga),59
+627,2005,Bubba Sparxxx,184,252,True,Ms. New Booty,62
+628,2005,Madonna,184,281,False,Sorry,62
+629,2006,McFly,184,207,False,Star Girl,38
+630,2005,KT Tunstall,183,172,False,Black Horse And The Cherry Tree,66
+631,2006,Kelis,24,274,False,Bossy Featuring Too $hort (feat. Too $hort),49
+632,2006,Orson,184,171,False,No Tomorrow,29
+633,2006,Bob Sinclar,184,245,False,Rock This Party - Everybody Dance Now,70
+634,2006,The Feeling,184,247,False,Fill My Little World,50
+635,2006,Snow Patrol,184,273,False,You're All I Have,45
+636,2006,Christina Aguilera,184,228,False,Ain't No Other Man,64
+637,2004,Infernal,184,209,False,From Paris to Berlin,58
+638,2006,Jibbs,105,207,True,Chain Hang Low,58
+639,2004,Nizlopi,159,227,False,JCB,34
+640,2007,Leona Lewis,183,262,False,Bleeding Love,77
+641,2008,Rihanna,184,275,False,Umbrella,85
+642,2007,Arctic Monkeys,2,170,False,Brianstorm,63
+643,2006,Fergie,3,268,False,Big Girls Don't Cry (Personal),67
+644,2007,Mark Ronson,184,219,False,Valerie (feat. Amy Winehouse) - Version Revisited,78
+645,2005,Plain White T's,184,232,False,Hey There Delilah,79
+646,2006,Justin Timberlake,184,448,False,What Goes Around.../...Comes Around (Interlude),74
+647,2006,Gwen Stefani,3,246,False,The Sweet Escape,74
+648,2007,Kanye West,184,271,True,Can't Tell Me Nothing,81
+649,2007,Gym Class Heroes,183,237,False,Cupid's Chokehold / Breakfast in America - Radio Mix,58
+650,2007,Paramore,2,211,False,Misery Business,76
+651,2007,Lloyd,184,273,False,You,74
+652,2007,Arctic Monkeys,2,173,False,Fluorescent Adolescent,72
+653,2007,Kanye West,184,311,True,Stronger,83
+654,2007,All Time Low,184,182,False,"Dear Maria, Count Me In",77
+655,2006,Fergie,3,246,True,Glamorous,72
+656,2006,My Chemical Romance,184,161,False,Teenagers,81
+657,2008,Rihanna,184,212,False,Shut Up And Drive,71
+658,2007,Foo Fighters,184,269,False,The Pretender,80
+659,2006,Justin Timberlake,184,276,False,My Love (feat. T.I.),76
+660,2007,Timbaland,184,234,True,Give It To Me,77
+661,2007,Klaxons,98,165,False,Golden Skans,67
+662,2007,Finger Eleven,184,208,False,Paralyzer,76
+663,2006,Amy Winehouse,184,185,True,Tears Dry On Their Own,64
+664,2007,T-Pain,184,238,True,Bartender (feat. Akon),74
+665,2007,Lloyd,184,209,False,Get It Shawty,65
+666,2007,Calvin Harris,184,333,False,Acceptable in the 80's,57
+667,2006,Nelly Furtado,184,223,False,Say It Right,82
+668,2007,Timbaland,104,179,False,The Way I Are,83
+669,2007,Britney Spears,184,251,False,Gimme More,81
+670,2007,Fall Out Boy,184,203,False,Thnks fr th Mmrs,80
+671,2007,Avril Lavigne,184,216,True,Girlfriend,76
+672,2006,The Red Jumpsuit Apparatus,184,192,False,Face Down,77
+673,2007,Linkin Park,167,205,False,What I've Done,81
+674,2007,Keyshia Cole,3,238,False,Let It Go,67
+675,2007,T-Pain,184,227,False,Buy U a Drank (Shawty Snappin') (feat. Yung Joc),77
+676,2007,BOYS LIKE GIRLS,140,206,False,The Great Escape,63
+677,2007,Beyoncé,180,199,False,Beautiful Liar,74
+678,2007,Sean Kingston,146,225,False,Beautiful Girls,79
+679,2007,Soulja Boy,100,221,False,Crank That (Soulja Boy),77
+680,2006,Amy Winehouse,184,241,True,Back To Black,81
+681,2005,The Fray,184,262,False,How to Save a Life,81
+682,2007,Seether,168,193,True,Fake It,76
+683,2006,Ciara,169,267,False,Promise,63
+684,2006,Red Hot Chili Peppers,184,334,False,Snow (Hey Oh),80
+685,2006,Akon,184,212,True,Smack That,84
+686,2007,Rich Boy,97,263,True,Throw Some D's,58
+687,2005,Carrie Underwood,184,199,False,Before He Cheats,80
+688,2007,Ne-Yo,178,266,False,Because Of You,76
+689,2007,Plies,184,255,True,Shawty (feat. T Pain),63
+690,2007,Linkin Park,167,166,True,Bleed It Out,79
+691,2006,Robin Thicke,163,254,False,Lost Without U,65
+692,2006,Justin Timberlake,184,252,False,Summer Love,70
+693,2007,Kaiser Chiefs,131,204,False,Ruby,62
+694,2006,Akon,184,247,True,I Wanna Love You,75
+695,2007,Fall Out Boy,184,212,False,"This Ain't A Scene, It's An Arms Race",71
+696,2006,Snow Patrol,184,267,False,Chasing Cars,82
+697,2007,Chris Brown,184,250,False,Kiss Kiss (feat. T-Pain),72
+698,2006,Fergie,3,292,True,Fergalicious,70
+699,2008,The Hoosiers,184,266,False,Goodbye Mr A,41
+700,2007,Pretty Ricky,184,242,False,On the Hotline - Amended Version,61
+701,2006,Hellogoodbye,184,240,False,Here (In Your Arms),58
+702,2007,Fabolous,184,253,True,Make Me Better,62
+703,2006,Akon,184,293,True,Don't Matter,75
+704,2006,Amy Winehouse,184,214,False,Rehab,74
+705,2007,Scouting For Girls,184,223,False,She's So Lovely,65
+706,2005,Nickelback,184,255,False,Rockstar - 2020 Remaster,57
+707,2006,Ciara,169,237,False,Like a Boy,66
+708,2007,J. Holiday,184,275,False,Bed,66
+709,2007,Kate Nash,41,245,True,Foundations,45
+710,2007,Maroon 5,2,211,True,Makes Me Wonder,58
+711,2006,Bow Wow,184,268,False,Shortie Like Mine (feat. Chris Brown & Johntá Austin),62
+712,2007,Colbie Caillat,3,196,False,Bubbly,69
+713,2006,Omarion,183,256,False,Ice Box,59
+714,2007,50 Cent,2,247,True,Ayo Technology,59
+715,2008,Rihanna,184,218,False,Hate That I Love You,72
+716,2007,MIKA,3,187,False,Grace Kelly,62
+717,2007,SHOP BOYZ,92,253,True,Party Like A Rock Star,63
+718,2007,Alex Gaudino,184,223,False,Destination Calabria - Radio Edit,76
+719,2007,Avril Lavigne,184,240,False,When You're Gone,69
+720,2007,September,184,209,False,Cry for You,69
+721,2005,Robyn,2,255,False,With Every Heartbeat,44
+722,2006,Take That,3,202,False,Patience,43
+723,2007,James Blunt,184,280,False,1973,71
+724,2006,Baby Boy Da Prince,184,324,True,The Way I Live,58
+725,2006,Bow Wow,184,238,False,Outta My System (feat. T-Pain & Johntá Austin),57
+726,2007,Keyshia Cole,3,255,False,Last Night,59
+727,2007,Wyclef Jean,174,241,False,"Sweetest Girl (Dollar Bill) (feat. Akon, Lil' Wayne & Niia)",58
+728,2007,Bone Thugs-N-Harmony,86,287,True,I Tried,61
+729,2007,Elliott Yamin,150,261,False,Wait for You,59
+730,2007,Paolo Nutini,184,203,False,New Shoes,68
+731,2006,Take That,3,211,False,Shine,38
+732,2006,Justin Timberlake,184,444,True,LoveStoned / I Think She Knows (Interlude),58
+733,2006,Just Jack,3,297,False,Starz In Their Eyes,26
+734,2006,Jim Jones,184,236,True,We Fly High,54
+735,2008,Flo Rida,184,231,False,Low (feat. T-Pain),82
+736,2008,Katy Perry,3,179,False,I Kissed A Girl,70
+737,2008,Rihanna,184,229,False,Take A Bow,77
+738,2007,Alicia Keys,184,253,False,No One,74
+739,2007,Timbaland,184,184,False,Apologize,73
+740,2008,Ne-Yo,183,232,False,Miss Independent,78
+741,2007,Chris Brown,184,252,False,With You,75
+742,2008,Beyoncé,137,249,False,If I Were a Boy,67
+743,2007,Kanye West,184,237,True,Flashing Lights,87
+744,2008,Estelle,184,284,True,American Boy,78
+745,2008,Vampire Weekend,2,137,False,A-Punk,70
+746,2007,MGMT,184,302,False,Kids,78
+747,2007,M.I.A.,184,205,False,Paper Planes,78
+748,2007,The-Dream,184,267,True,I Luv Your Girl,64
+749,2008,Lil Wayne,181,221,True,A Milli,71
+750,2008,Coldplay,169,242,False,Viva La Vida,87
+751,2008,Bon Iver,143,238,False,Skinny Love,73
+752,2007,Lupe Fiasco,184,289,False,Superstar (feat. Matthew Santos),68
+753,2007,Kanye West,184,203,True,Homecoming,82
+754,2007,Finger Eleven,184,208,False,Paralyzer,76
+755,2009,Cage The Elephant,103,175,False,Ain't No Rest for the Wicked,76
+756,2007,Metro Station,182,179,False,Shake It,69
+757,2007,Snoop Dogg,84,245,False,Sensual Seduction,58
+758,2008,Lil Wayne,181,299,True,Lollipop,72
+759,2008,Adele,22,210,False,Chasing Pavements,72
+760,2008,Ne-Yo,183,234,False,Closer,68
+761,2008,Jeezy,183,321,True,Put On,68
+762,2007,Kanye West,184,207,True,Good Life,77
+763,2008,Kings of Leon,182,203,False,Sex on Fire,83
+764,2008,Mariah Carey,184,204,False,Touch My Body,76
+765,2008,T-Pain,184,273,False,Can't Believe It (feat. Lil' Wayne),62
+766,2007,Trey Songz,184,206,False,Can't Help but Wait,69
+767,2008,The Offspring,184,177,True,"You're Gonna Go Far, Kid",83
+768,2008,Rihanna,184,238,False,Disturbia,79
+769,2008,Kanye West,183,270,False,Love Lockdown,66
+770,2008,Kings of Leon,182,230,False,Use Somebody,78
+771,2007,Soulja Boy,100,221,False,Crank That (Soulja Boy),77
+772,2007,Natasha Bedingfield,184,202,False,Pocketful of Sunshine,72
+773,2006,Fergie,3,240,False,Clumsy,63
+774,2008,Britney Spears,184,224,False,Womanizer,77
+775,2008,Secondhand Serenade,184,183,False,Fall for You,67
+776,2008,John Legend,184,284,False,Green Light (feat. André 3000),57
+777,2008,Rihanna,184,267,False,Don't Stop The Music,81
+778,2008,Basshunter,184,176,False,All I Ever Wanted - Radio Edit,67
+779,2008,Katy Perry,3,220,False,Hot N Cold,72
+780,2008,The Script,100,241,False,The Man Who Can't Be Moved,66
+781,2008,Kardinal Offishall,133,246,True,Dangerous,75
+782,2007,Chris Brown,184,250,False,Kiss Kiss (feat. T-Pain),72
+783,2007,Mary J. Blige,184,242,False,Just Fine,61
+784,2009,Madcon,2,218,False,Beggin',60
+785,2009,Madonna,145,189,False,4 Minutes (feat. Justin Timberlake & Timbaland),75
+786,2008,Eric Prydz,184,157,False,Pjanoo - Radio Edit,70
+787,2008,Jonas Brothers,184,175,False,Burnin' Up,73
+788,2007,Plies,184,188,True,Hypnotized (feat. Akon),67
+789,2008,USHER,184,259,False,Love in This Club,73
+790,2008,Chris Brown,184,278,False,Forever,78
+791,2008,T.I.,184,249,True,Whatever You Like,75
+792,2008,Ray J,184,204,True,Sexy Can I,64
+793,2008,The Killers,184,245,False,Human,76
+794,2007,Linkin Park,167,290,False,Shadow of the Day,67
+795,2008,Akon,183,240,False,Right Now (Na Na Na),78
+796,2008,Sean Kingston,184,236,False,Take You There,66
+797,2008,Wiley,183,170,False,Wearing My Rolex - Radio Edit,57
+798,2007,Sara Bareilles,184,258,False,Love Song,74
+799,2008,Pendulum,183,313,False,Propane Nightmares,58
+800,2008,T.I.,184,338,True,Live Your Life,75
+801,2007,Colbie Caillat,3,196,False,Bubbly,69
+802,2008,P!nk,184,215,True,So What,78
+803,2008,Michael Franti & Spearhead,184,235,False,Say Hey (I Love You) (feat. Cherine Tanya Anderson),65
+804,2008,Lil Wayne,181,244,True,Got Money,59
+805,2008,David Archuleta,184,213,False,Crush,69
+806,2007,Miley Cyrus,183,190,False,See You Again,70
+807,2008,Coldplay,169,222,False,Violet Hill,67
+808,2008,Noah And The Whale,2,214,False,5 Years Time,53
+809,2008,Rihanna,184,218,False,Hate That I Love You,72
+810,2008,The Pussycat Dolls,184,245,False,When I Grow Up,72
+811,2008,Guru Josh Project,184,192,False,Infinity 2008 - Klaas Vocal Edit,76
+812,2008,Saving Abel,184,222,True,Addicted,70
+813,2008,Plies,180,240,True,"Bust It Baby, Pt. 2 (feat. Ne-Yo)",62
+814,2007,Jordin Sparks,184,264,False,No Air (feat. Chris Brown),72
+815,2007,Kid Rock,184,297,False,All Summer Long,74
+816,2007,Alicia Keys,184,315,False,Like You'll Never See Me Again,56
+817,2008,John Mayer,184,263,False,"Free Fallin' - Live at the Nokia Theatre, Los Angeles, CA - December 2007",73
+818,2008,Basshunter,184,148,False,Now You're Gone (feat. DJ Mental Theo's Bazzheadz) - Video Edit,66
+819,2007,September,184,209,False,Cry for You,69
+820,2007,J. Holiday,183,220,False,Suffocate - Superclean,60
+821,2008,Duffy,3,226,False,Warwick Avenue,53
+822,2008,The Game,183,320,True,My Life,59
+823,2007,The Ting Tings,182,171,False,Shut Up and Let Me Go,55
+824,2008,Colby O'Donis,137,243,False,What You Got,61
+825,2008,James Morrison,3,250,False,Broken Strings,51
+826,2007,OneRepublic,4,223,False,Stop And Stare,61
+827,2007,Britney Spears,184,196,False,Break the Ice,61
+828,2008,Jennifer Hudson,181,250,False,Spotlight,59
+829,2008,3 Doors Down,3,241,False,It's Not My Time,65
+830,2007,Scouting For Girls,184,175,False,Heartbeat,57
+831,2008,Duffy,3,219,False,Mercy,60
+832,2008,"H ""two"" O",120,207,False,What's It Gonna Be (feat. Platnum),56
+833,2007,Britney Spears,184,212,False,Piece of Me,65
+834,2009,Black Eyed Peas,184,289,False,I Gotta Feeling,76
+835,2008,Lady Gaga,184,237,False,Poker Face,78
+836,2008,Beyoncé,144,261,False,Halo,76
+837,2009,David Guetta,1,195,True,Sexy Bitch (feat. Akon),67
+838,2009,Flo Rida,136,204,False,Right Round,77
+839,2008,Taylor Swift,184,236,False,Love Story,80
+840,2009,Drake,184,257,True,Best I Ever Had,79
+841,2009,Kid Cudi,3,221,False,Day 'N' Nite (nightmare),74
+842,2008,Kanye West,183,211,False,Heartless,87
+843,2008,Empire of the Sun,184,198,False,Walking On A Dream,81
+844,2009,Phoenix,184,241,False,Lisztomania,70
+845,2009,Drake,184,357,True,Forever,75
+846,2008,Soulja Boy,137,193,False,Kiss Me Thru The Phone,79
+847,2008,Jamie Foxx,180,289,True,Blame It,68
+848,2009,Shakira,184,188,False,She Wolf,76
+849,2009,Paramore,75,267,False,The Only Exception,75
+850,2009,Black Eyed Peas,184,284,False,Meet Me Halfway,70
+851,2008,Kanye West,183,270,False,Love Lockdown,66
+852,2009,The Temper Trap,1,230,False,Sweet Disposition,67
+853,2008,Lady Gaga,184,208,False,Paparazzi,73
+854,2009,Florence + The Machine,3,251,False,Dog Days Are Over,78
+855,2008,Soulja Boy,137,206,False,Turn My Swag On,62
+856,2008,Taylor Swift,184,232,False,You Belong With Me,76
+857,2009,JAY-Z,184,276,True,Empire State Of Mind,83
+858,2008,3OH!3,181,192,True,DONTTRUSTME,70
+859,2008,Lady Gaga,184,216,False,LoveGame,71
+860,2009,Mariah Carey,3,242,False,Obsessed,69
+861,2008,Kings of Leon,182,203,False,Sex on Fire,83
+862,2009,Mumford & Sons,2,247,True,Little Lion Man,71
+863,2009,Skillet,180,178,False,Monster,79
+864,2009,JAY-Z,184,267,True,Run This Town,80
+865,2008,Lady Gaga,184,241,False,Just Dance,76
+866,2009,Miley Cyrus,2,202,False,Party In The U.S.A.,79
+867,2009,Jeremih,184,226,False,Birthday Sex,72
+868,2009,Eminem,184,297,True,Crack A Bottle,72
+869,2008,The All-American Rejects,183,213,False,Gives You Hell,70
+870,2008,Kings of Leon,182,230,False,Use Somebody,78
+871,2008,Britney Spears,184,216,False,If U Seek Amy,72
+872,2009,La Roux,184,205,False,Bulletproof,73
+873,2008,The Script,100,261,False,Breakeven,67
+874,2009,Pitbull,162,237,False,Hotel Room Service,73
+875,2009,Kasabian,184,252,False,Fire,67
+876,2008,Britney Spears,184,192,False,Circus,76
+877,2009,The Fray,184,241,False,You Found Me,74
+878,2009,Green Day,164,321,False,21 Guns,77
+879,2009,Lady Gaga,178,294,True,Bad Romance,83
+880,2009,Keri Hilson,2,326,False,Knock You Down,67
+881,2009,The xx,2,127,False,Intro,66
+882,2009,Calvin Harris,174,210,False,I'm Not Alone - Radio Edit,61
+883,2009,Florence + The Machine,3,168,False,You've Got The Love,66
+884,2009,Jay Sean,183,212,False,Down,79
+885,2009,Maxwell,183,310,False,Pretty Wings - uncut,62
+886,2007,The Veronicas,181,255,False,Untouched,64
+887,2009,The-Dream,124,221,True,Rockin' That Shit,63
+888,2009,Muse,184,304,False,Uprising,77
+889,2009,Lily Allen,3,207,True,The Fear,46
+890,2009,Jason Aldean,183,204,False,Big Green Tractor,69
+891,2010,Jason Derulo,1,221,False,Whatcha Say,67
+892,2009,The Prodigy,181,216,False,Omen,61
+893,2009,Sean Kingston,181,239,False,Fire Burning,73
+894,2008,Shinedown,183,222,False,Second Chance,70
+895,2009,Fabolous,180,231,True,Throw It In The Bag,59
+896,2009,Linkin Park,168,268,False,New Divide,71
+897,2008,Beyoncé,137,208,False,Sweet Dreams,65
+898,2008,T.I.,184,249,True,Whatever You Like,75
+899,2009,Black Eyed Peas,184,251,True,Boom Boom Pow,67
+900,2009,Cascada,184,205,False,Evacuate The Dancefloor - Radio Edit,65
+901,2008,Ne-Yo,183,254,False,Mad,71
+902,2008,Kevin Rudolf,124,231,True,Let It Rock,67
+903,2009,OneRepublic,184,224,False,Secrets,77
+904,2008,T.I.,184,299,True,Dead And Gone,69
+905,2009,The Fray,184,256,False,Never Say Never,68
+906,2009,Lily Allen,3,202,True,Not Fair,46
+907,2009,OneRepublic,184,238,False,All The Right Moves,67
+908,2008,Jason Mraz,184,242,False,I'm Yours,81
+909,2008,T.I.,184,338,True,Live Your Life,75
+910,2009,Justin Bieber,177,215,False,One Time,73
+911,2009,Cobra Starship,166,196,False,Good Girls Go Bad (feat. Leighton Meester),66
+912,2008,Beyoncé,144,193,False,Single Ladies (Put a Ring on It),69
+913,2009,BOYS LIKE GIRLS,182,226,False,Love Drunk,64
+914,2009,Eminem,184,269,False,We Made You,62
+915,2009,Asher Roth,136,241,True,I Love College,59
+916,2009,Mario,183,249,True,Break Up,54
+917,2009,Michael Bublé,170,244,False,Haven't Met You Yet,71
+918,2009,La Roux,184,248,False,In For The Kill,59
+919,2008,Katy Perry,3,199,False,Waking Up In Vegas,56
+920,2009,Miley Cyrus,182,236,False,The Climb,70
+921,2009,Uncle Kracker,184,201,False,Smile,66
+922,2009,Colbie Caillat,2,215,False,Fallin' For You,60
+923,2008,James Morrison,3,250,False,Broken Strings,51
+924,2009,David Guetta,1,191,False,When Love Takes Over (feat. Kelly Rowland),59
+925,2009,Pitbull,162,237,False,I Know You Want Me (Calle Ocho),72
+926,2009,BOYS LIKE GIRLS,182,242,False,Two Is Better Than One (feat. Taylor Swift),67
+927,2009,Selena Gomez & The Scene,171,202,False,Naturally,67
+928,2009,Kelly Clarkson,178,211,False,My Life Would Suck Without You,69
+929,2009,JLS,184,199,False,Beat Again - Radio Edit,57
+930,2008,Akon,183,312,False,Beautiful,70
+931,2008,Nickelback,173,249,False,If Today Was Your Last Day,69
+932,2010,Bruno Mars,39,220,False,Just the Way You Are,85
+933,2010,Eminem,184,263,True,Love The Way You Lie,84
+934,2009,Lady Gaga,178,294,True,Bad Romance,83
+935,2010,Stromae,182,206,False,Alors on danse - Radio Edit,79
+936,2010,Kesha,184,199,False,TiK ToK,83
+937,2009,David Guetta,1,210,False,Memories (feat. Kid Cudi),69
+938,2010,Taio Cruz,184,202,False,Dynamite,78
+939,2010,Rihanna,184,235,False,Only Girl (In The World),83
+940,2010,Drake,3,233,True,Over,72
+941,2010,Two Door Cinema Club,15,191,False,What You Know,75
+942,2010,Waka Flocka Flame,153,263,True,No Hands (feat. Roscoe Dash & Wale),60
+943,2010,Mike Posner,184,213,False,Cooler Than Me - Single Mix,77
+944,2010,USHER,184,224,False,Hey Daddy (Daddy's Home),70
+945,2010,Neon Trees,5,212,False,Animal,71
+946,2010,Kesha,184,172,True,Blah Blah Blah,68
+947,2010,B.o.B,110,268,False,Nothin' on You (feat. Bruno Mars),78
+948,2009,Owl City,176,228,False,Fireflies,79
+949,2010,Drake,3,208,False,Find Your Love,69
+950,2010,Katy Perry,3,227,False,Teenage Dream,74
+951,2010,Taylor Swift,2,293,False,Back To December,66
+952,2010,Bruno Mars,39,217,False,Talking to the Moon,82
+953,2009,Young Money,120,288,True,BedRock,71
+954,2009,Lady Gaga,178,220,False,Telephone,73
+955,2010,Trey Songz,184,242,True,Bottoms Up (feat. Nicki Minaj),73
+956,2010,Far East Movement,3,216,False,Like A G6,70
+957,2010,Maroon 5,4,216,False,Misery,63
+958,2010,Rihanna,184,263,True,What's My Name?,73
+959,2010,Lil Wayne,184,271,True,Right Above It,70
+960,2010,USHER,184,269,False,OMG (feat. will.i.am),74
+961,2009,Lady Gaga,178,274,False,Alejandro,73
+962,2009,Iyaz,112,182,False,Replay,73
+963,2009,Black Eyed Peas,184,257,True,Imma Be,67
+964,2010,DJ Fresh,184,192,False,Gold Dust - Radio Edit,64
+965,2010,Kesha,184,187,False,Your Love Is My Drug,71
+966,2009,Jay Sean,183,212,False,Down,79
+967,2010,Justin Bieber,182,214,False,Baby,82
+968,2010,Taylor Swift,2,230,False,Mine,63
+969,2009,JAY-Z,184,253,True,Young Forever,67
+970,2010,USHER,184,220,False,DJ Got Us Fallin' In Love (feat. Pitbull),81
+971,2010,Jason Derulo,1,221,False,Whatcha Say,67
+972,2010,Travie McCoy,118,211,True,Billionaire (feat. Bruno Mars),75
+973,2009,Trey Songz,2,207,False,Say Aah (feat. Fabolous),63
+974,2010,Train,184,216,False,"Hey, Soul Sister",84
+975,2010,Taio Cruz,184,201,False,Break Your Heart,72
+976,2009,3OH!3,141,202,True,STARSTRUKK (feat. Katy Perry),65
+977,2009,Rihanna,182,222,True,Rude Boy,79
+978,2010,B.o.B,110,180,True,Airplanes (feat. Hayley Williams of Paramore),77
+979,2010,Example,184,181,False,Kickstarts,63
+980,2010,Aloe Blacc,184,243,False,I Need A Dollar,68
+981,2010,Jason Derulo,1,215,False,Ridin' Solo,65
+982,2010,Edward Maya,27,184,False,Stereo Love - Radio Edit,69
+983,2010,Ludacris,166,216,True,My Chick Bad,67
+984,2010,Flo Rida,166,234,False,Club Can't Handle Me (feat. David Guetta),79
+985,2010,The Band Perry,3,222,False,If I Die Young,68
+986,2010,Robyn,2,278,False,Dancing On My Own - Radio Edit,60
+987,2010,Don Omar,61,198,False,Danza Kuduro,81
+988,2010,Enrique Iglesias,184,231,False,I Like It,66
+989,2010,Kesha,184,215,False,Take It Off,70
+990,2010,CeeLo Green,43,222,False,Forget You,65
+991,2010,B.o.B,110,196,False,Magic (feat. Rivers Cuomo),68
+992,2010,Nelly,184,237,False,Just A Dream,76
+993,2010,Tinie Tempah,3,268,True,Pass Out,44
+994,2010,Swedish House Mafia,184,169,False,One - Radio Edit,62
+995,2010,Tim Berg,184,218,False,Bromance - Avicii's Radio Edit,56
+996,2009,Timbaland,184,232,False,Carry Out (Featuring Justin Timberlake),69
+997,2010,Lady A,184,236,False,Need You Now,65
+998,2010,Jason Derulo,1,199,False,In My Head,63
+999,2010,Eminem,184,248,True,Not Afraid,80
+1000,2010,Rihanna,8,266,True,Man Down,60
+1001,2009,Jay Sean,183,210,False,Do You Remember,70
+1002,2010,3OH!3,153,192,False,My First Kiss (feat. Ke$ha),62
+1003,2010,Black Eyed Peas,180,307,False,The Time (Dirty Bit),71
+1004,2010,INNA,184,217,False,Hot,65
+1005,2010,Ellie Goulding,184,176,False,Starry Eyed,55
+1006,2010,DJ Khaled,184,232,True,"All I Do Is Win (feat. T-Pain, Ludacris, Snoop Dogg & Rick Ross)",52
+1007,2009,Rihanna,182,208,True,Te Amo,70
+1008,2009,John Mayer,184,250,False,Half of My Heart,66
+1009,2009,Alicia Keys,184,216,False,Empire State of Mind (Part II) Broken Down,73
+1010,2009,Timbaland,184,292,False,If We Ever Meet Again (Featuring Katy Perry),70
+1011,2010,Swedish House Mafia,3,206,True,Miami 2 Ibiza - Swedish House Mafia vs. Tinie Tempah,47
+1012,2009,K'NAAN,184,220,False,Wavin' Flag,60
+1013,2010,Plan B,65,210,False,She Said,34
+1014,2009,John Mayer,184,269,False,Heartbreak Warfare,65
+1015,2010,Ludacris,166,201,True,How Low,63
+1016,2009,Alicia Keys,184,249,False,Try Sleeping with a Broken Heart,62
+1017,2010,Duck Sauce,5,196,False,Barbra Streisand - Radio Edit,45
+1018,2010,Sugarland,184,247,False,Stuck Like Glue,66
+1019,2010,Shontelle,184,226,False,Impossible,68
+1020,2009,Adam Lambert,181,227,False,Whataya Want from Me,63
+1021,2009,David Guetta,1,188,False,Gettin' Over You (feat. Fergie & LMFAO),50
+1022,2010,Tinie Tempah,3,207,False,Written in the Stars (feat. Eric Turner),46
+1023,2010,Sara Bareilles,184,207,False,King of Anything,61
+1024,2010,Ellie Goulding,184,191,False,Your Song - Bonus Track,67
