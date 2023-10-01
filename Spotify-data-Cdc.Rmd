@@ -18,12 +18,12 @@ cdc <- read.csv('CDC-spotify.csv')
 
 ```{r}
 
-cdc = cdc |> 
+cdc1 = cdc |> 
   rename('Available Markets' = Available.Markets, 'Duration (sec)' = Duration..sec., 'Track Name' = Track.Name)
 ```
 
 ```{r}
-spotify_data = cdc |> 
+spotify_data = cdc1 |> 
   select(-X)
 ```
 
@@ -56,11 +56,13 @@ spotify_data |>
 average_explicit = spotify_data |> 
   group_by(Explicit) |> 
   summarize(Explicit_Popularity = mean(Popularity))
+kable(average_explicit)
 
 ```
 
 ```{r}
 spotify_data |> 
+  filter(`Duration (sec)` < 3000) |> 
   ggplot(mapping = aes(x = `Duration (sec)`, y = Popularity)) +
   geom_point(aes(color = Explicit)) +
    scale_color_manual(values = c("#FF69B4", "#800000")) +
@@ -75,12 +77,13 @@ spotify_data |>
 
 
 ```{r}
+total_mean_duration = mean(spotify_data$`Duration (sec)`)
 average_artists = spotify_data |> 
   group_by(Artist) |> 
-  summarize(`Mean Popularity` = mean(Popularity),  
+  summarize(`Total Popularity` = sum(Popularity),  
             Count = n(), 
             `Average Duration` = mean(`Duration (sec)`)) |> 
-  arrange(desc(Count))
+  arrange(desc(`Total Popularity`))
 
 
 ```
@@ -88,5 +91,5 @@ average_artists = spotify_data |>
 
 ```{r}
 average_artists |> 
-  ggplot(mapping = aes(x = ))
+  ggplot()
 ```
