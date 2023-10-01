@@ -38,8 +38,8 @@ average_years
 ```{r}
 average_years |> 
   ggplot(mapping = aes(x= Year, y = average_popularity)) +
-  geom_point() +
-  geom_smooth(method = "lm", na.rm = TRUE)
+  geom_point(color = "#800000") +
+  geom_smooth(method = "lm", color = '#FF69B4', na.rm = TRUE)
 ```
 ```{r}
 spotify_data |> 
@@ -87,5 +87,6 @@ average_artists = spotify_data |>
 
 
 ```{r}
-average_artists
+average_artists |> 
+  ggplot(mapping = aes(x = ))
 ```
