@@ -1,0 +1,91 @@
+---
+title: "CDC-data-analysis"
+author: "Justin Rivera"
+date: "2023-09-30"
+output: pdf_document
+---
+
+```{r, message = FALSE}
+library(tidyverse)
+library(knitr)
+```
+
+
+```{r}
+cdc <- read.csv('CDC-spotify.csv')
+```
+
+
+```{r}
+
+cdc = cdc |> 
+  rename('Available Markets' = Available.Markets, 'Duration (sec)' = Duration..sec., 'Track Name' = Track.Name)
+```
+
+```{r}
+spotify_data = cdc |> 
+  select(-X)
+```
+
+
+```{r}
+average_years = spotify_data |> 
+  group_by(Year) |> 
+  summarize(average_popularity = mean(Popularity))
+  
+average_years
+```
+```{r}
+average_years |> 
+  ggplot(mapping = aes(x= Year, y = average_popularity)) +
+  geom_point() +
+  geom_smooth(method = "lm", na.rm = TRUE)
+```
+```{r}
+spotify_data |> 
+  ggplot(mapping = aes(x = Explicit)) + 
+  geom_bar()
+
+```
+
+
+```{r}
+average_explicit = spotify_data |> 
+  group_by(Explicit) |> 
+  summarize(Explicit_Popularity = mean(Popularity))
+
+```
+
+```{r}
+spotify_data |> 
+  ggplot(mapping = aes(x = `Duration (sec)`, y = Popularity)) +
+  geom_point(aes(color = Explicit)) +
+   scale_color_manual(values = c("#FF69B4", "#800000")) +
+  geom_smooth(method = 'lm', color = "#ADD8E6", se = FALSE) +
+    labs(title = "Relationship Between Song Popularity and Duration", 
+       x="Song Duration (in seconds)", 
+      y="Song Popularity",  
+       caption = "Source: Spotify API ")
+
+```
+
+
+
+```{r}
+average_artists = spotify_data |> 
+  group_by(Artist) |> 
+  summarize(`Mean Popularity` = mean(Popularity)) |> 
+  arrange(desc(`Mean Popularity`))
+
+
+```
+
+
+```{r}
+
+average_artists |> 
+  filter(Popularity > 80) |> 
+  ggplot(mapping = aes(x = Artist)) +
+  geom_bar()
+  
+```
