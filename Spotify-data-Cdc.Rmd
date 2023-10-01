@@ -44,7 +44,10 @@ average_years |>
 ```{r}
 spotify_data |> 
   ggplot(mapping = aes(x = Explicit)) + 
-  geom_bar()
+  geom_bar(color = "#FF69B4", fill = "#800000") + 
+  labs(title = "Number of Explicit vs. Non-explicit songs")
+
+  
 
 ```
 
@@ -74,18 +77,15 @@ spotify_data |>
 ```{r}
 average_artists = spotify_data |> 
   group_by(Artist) |> 
-  summarize(`Mean Popularity` = mean(Popularity)) |> 
-  arrange(desc(`Mean Popularity`))
+  summarize(`Mean Popularity` = mean(Popularity),  
+            Count = n(), 
+            `Average Duration` = mean(`Duration (sec)`)) |> 
+  arrange(desc(Count))
 
 
 ```
 
 
 ```{r}
-
-average_artists |> 
-  filter(Popularity > 80) |> 
-  ggplot(mapping = aes(x = Artist)) +
-  geom_bar()
-  
+average_artists
 ```
