@@ -44,10 +44,10 @@ average_years |>
 ```{r}
 spotify_data |> 
   ggplot(mapping = aes(x = Explicit)) + 
-  geom_bar(color = "#FF69B4", fill = "#800000") + 
+  geom_bar(aes(color = "#FF69B4", fill = Explicit)) + 
+  scale_color_manual(values = c("#FF69B4", "#800000")) +
   labs(title = "Number of Explicit vs. Non-explicit songs")
 
-  
 
 ```
 
@@ -82,14 +82,49 @@ average_artists = spotify_data |>
   group_by(Artist) |> 
   summarize(`Total Popularity` = sum(Popularity),  
             Count = n(), 
-            `Average Duration` = mean(`Duration (sec)`)) |> 
+            `Average Duration` = mean(`Duration (sec)`) ) |> 
   arrange(desc(`Total Popularity`))
-
-
 ```
 
 
+```{r, fig.width = 15}
+average_artists |> 
+  filter(`Total Popularity` > 1146) |> 
+  ggplot(mappping = aes(x = Artist, y = `Total Popularity`)) + 
+  geom_col(aes(x = Artist, y = `Total Popularity`, fill = Artist)) + 
+  labs(title = "Total Popularity of top ten artists")
+```
+
 ```{r}
 average_artists |> 
-  ggplot()
+  filter(`Total Popularity` > 1146) |> 
+  ggplot(mappping = aes(x = Artist, y = `Average Duration`)) + 
+  geom_col(aes(x = Artist, y = `Average Duration`, fill = Artist)) + 
+  labs(title = "Average Duration of top ten artists")
+```
+
+```{r}
+
+
+Explicit_ratio = spotify_data |> 
+  group_by(Year) |> 
+  summarize(`Explicit Ratio` = sum(Explicit == "True")/n())
+
+kable(Explicit_ratio)
+```
+
+```{r}
+Explicit_ratio |> 
+  ggplot(mapping = aes(x = as.factor(Year), y = `Explicit Ratio`)) +
+  geom_point()
+```
+
+```{r}
+popularity_model = lm(Popularity~Year + `Available Markets` + `Duration (sec)` + as.factor(Explicit), data = spotify_data)
+
+summary(popularity_model)
+plot(Popularity~Year + `Available Markets` + `Duration (sec)` + as.factor(Explicit), data = spotify_data)
+```
+```{r}
+summary(popularity_model)
 ```
